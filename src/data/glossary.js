@@ -8,6 +8,7 @@ export const glossary = [
   { term: "Inference", definition: "Using a trained model to produce an output for a new input." },
   { term: "Training", definition: "Adjusting a model's parameters using data, typically to improve performance on a task." },
   { term: "Dataset", definition: "An organized collection of examples or records used for analysis, training, or evaluation." },
+  { term: "Classification", definition: "A machine learning task that predicts a category, such as spam or not spam, rather than a continuous number like a price. Accuracy is one way to evaluate it; precision and recall also matter." },
   { term: "Model card", definition: "Documentation describing a model's purpose, performance, known limitations, and risks." },
   { term: "Bias", definition: "A systematic tendency in data, models, or outcomes that may reduce accuracy or produce unfair results." },
   { term: "Local AI", definition: "Running a model on your own device instead of sending every request to a remote service." }
